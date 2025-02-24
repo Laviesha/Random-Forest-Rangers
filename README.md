@@ -1,7 +1,8 @@
 # Autonomous News Summarizer AI Agent
-![WhatsApp Image 2025-02-24 at 21 14 59_f23cc314](https://github.com/user-attachments/assets/7cc347c9-4e69-4a99-84f4-e2972d283810)
 
+![WhatsApp Image 2025-02-24 at 21 39 45_98c35896](https://github.com/user-attachments/assets/b529e285-c6fb-47af-907b-47b2a5346ef4)
 
+![WhatsApp Image 2025-02-24 at 21 42 30_b6ebd4f7](https://github.com/user-attachments/assets/f0640307-8fbb-436d-abeb-5b9417ec35dd)
 
 ## Overview  
 This project automates news scraping, summarization, SEO optimization, and publishing to a WordPress site. It consists of multiple modules for handling different functionalities, from web scraping to content optimization and automated publishing.  
