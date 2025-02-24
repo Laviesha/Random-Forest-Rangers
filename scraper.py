@@ -74,7 +74,7 @@ def process_articles():
 
     print(f"🔍 Found {len(article_links)} articles.")
 
-    for idx, article_url in enumerate(article_links[:2]):  # Limiting to 10 for testing
+    for idx, article_url in enumerate(article_links[:20]):  # Limiting to 20 
         headline, text, summary = process_article(article_url)
         if summary is None:
             # print(f"⚠ Skipping article {article_url} due to missing summary.")
